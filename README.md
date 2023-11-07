@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hi+I+Am+Tharindu+Imalka)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Tharindu Imalka</h1>
+
 <h3 align="center">A passionate MERN developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetharz&label=Profile%20views&color=eae31f&style=flat" alt="thetharz" /> </p>
