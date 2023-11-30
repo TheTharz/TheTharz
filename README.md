@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Tharindu Imalka</h1>
 <h3 align="center">An engineering undergrad who loves coding</h3>
 
-<img alt="coding" align="center" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheTharz&label=Profile%20views&color=0e75b6&style=flat" alt="TheTharz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheTharz&theme=tokyonight" alt="TheTharz" /></a> </p>
+<p align="center"><img alt="coding" align="center" width="450" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheTharz&theme=tokyonight" alt="TheTharz" /></a> </p>
 
 - 🔭 I’m currently working on **LifePill**
 - 🌱 I’m currently learning **Fullstack development and Flutter**
 - 💬 Ask me about **MERN stack**
 - 📫 How to reach me **tharinduimalka915@gmail.com**
+<a align="center" ><img src="https://komarev.com/ghpvc/?username=TheTharz&label=Profile%20views&color=0e75b6&style=flat" alt="TheTharz" /> </a>
 
 <div> <a href="https://www.linkedin.com/in/Tharindu Imalka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/TheTharz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/the_thar1ndu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:tharinduimalka915@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
+</div><h3 align="center">Connect with me:</h3>
+<p align="center">  
 <a href="https://linkedin.com/in/Tharindu Imalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Tharindu Imalka" height="30" width="40" /></a><a href="https://fb.com/Tharindu Imalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Tharindu Imalka" height="30" width="40" /></a><a href="https://www.hackerrank.com/Jayawardhana MVTI" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="Jayawardhana MVTI" height="30" width="40" /></a><a href="https://kaggle.com/Tharindu Imalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="Tharindu Imalka" height="30" width="40" /></a><a href="https://instagram.com/the_thar1ndu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="the_thar1ndu" height="30" width="40" /></a><a href="https://medium.com/Tharindu Imalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="Tharindu Imalka" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
@@ -58,18 +56,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTharz&layout=compact&theme=tokyonight" alt=TheTharz />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTharz&layout=compact&theme=tokyonight" alt=TheTharz />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=TheTharz&show_icons=true&locale=en&theme=tokyonight" alt="TheTharz" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheTharz&theme=tokyonight" alt="TheTharz" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+<div align="left">
 <a href="https://github.com/TheTharz">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheTharz&theme=2077" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheTharz&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheTharz&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheTharz&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheTharz&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheTharz&theme=2077" height="180em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheTharz&theme=2077" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheTharz&theme=2077" height="180em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheTharz&theme=2077" height="180em" />
 </div>
