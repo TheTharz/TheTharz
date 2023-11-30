@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Imalka</h1>
 <h3 align="center">An engineering undergrad who loves coding</h3>
 <div style="align: center;">
-  <img alt="coding" align="center" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
+  <img alt="coding" align="center" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheTharz&label=Profile%20views&color=0e75b6&style=flat" alt="TheTharz" /> </p>
 
