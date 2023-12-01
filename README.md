@@ -1,15 +1,11 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQHAcs7ecRNadQ/profile-displaybackgroundimage-shrink_350_1400/0/1671962594547?e=1706745600&v=beta&t=iMUk0PjjaCPinLMwvrRA7b2p5K84PHhy7NdPI_3i588)
-<h1 align="center">Hi 👋, I'm Tharindu Imalka</h1>
-<h3 align="center">An engineering undergrad who loves coding</h3>
-
-<p align="center"><img alt="coding" align="center" width="450" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/></p>
+<p align="center"><a align="center" ><img align="center" src="https://komarev.com/ghpvc/?username=TheTharz&label=Profile%20views&color=0e75b6&style=flat" alt="TheTharz" /> </a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheTharz&theme=tokyonight" alt="TheTharz" /></a> </p>
 
 - 🔭 I’m currently working on **LifePill**
 - 🌱 I’m currently learning **Fullstack development and Flutter**
 - 💬 Ask me about **MERN stack**
 - 📫 How to reach me **tharinduimalka915@gmail.com**
-<a align="center" ><img src="https://komarev.com/ghpvc/?username=TheTharz&label=Profile%20views&color=0e75b6&style=flat" alt="TheTharz" /> </a>
 
 <div> <a href="https://www.linkedin.com/in/Tharindu Imalka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/TheTharz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
