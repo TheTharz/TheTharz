@@ -1,5 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQHAcs7ecRNadQ/profile-displaybackgroundimage-shrink_350_1400/0/1671962594547?e=1706745600&v=beta&t=iMUk0PjjaCPinLMwvrRA7b2p5K84PHhy7NdPI_3i588)
- alt="Mysql" width="40" height="40"/>
+![MasterHead](https://media.licdn.com/dms/image/D5616AQHAcs7ecRNadQ/profile-displaybackgroundimage-shrink_350_1400/0/1671962594547?e=1706745600&v=beta&t=iMUk0PjjaCPinLMwvrRA7b2p5K84PHhy7NdPI_3i588)/>
  <h1 align="center">Hi 👋, I'm Tharindu Imalka</h1>
 <h3 align="center">A passionate MERN developer from Sri Lanka</h3>
 
