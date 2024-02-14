@@ -1,5 +1,6 @@
+![Pro Developers Colorful Dark Gray   Orange LinkedIn Banner](https://github.com/TheTharz/TheTharz/assets/119271523/8e99be76-3a18-4dd8-a0cb-f2f36277b586)
  <h1 align="center">Hey 👋, I'm Tharindu </h1>
-<h3 align="center">A passionate fullstack and flutter developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer and DevOps explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetharz&label=Profile%20views&color=eae31f&style=flat" alt="thetharz" /> </p>
 
