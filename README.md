@@ -42,8 +42,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetharz&show_icons=true&locale=en&layout=compact" alt="thetharz" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetharz&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thetharz&show_icons=true&locale=en" alt="thetharz" /></p>
+
+<p>&nbsp;</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetharz&bg_color=000000&color=2429c2&line=4c5a9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thetharz&" alt="thetharz" /></p>
