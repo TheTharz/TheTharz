@@ -23,8 +23,8 @@
 - ⚡ Fun fact **Coding is like cooking in a kitchen where recipe is your srs and kitchen is your ide**
 
 # Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+   BLOG-POST-LIST:START
+   BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
