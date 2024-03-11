@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **Coding is like cooking in a kitchen where recipe is your srs and kitchen is your ide**
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
