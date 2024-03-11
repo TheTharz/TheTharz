@@ -22,9 +22,13 @@
 
 - ⚡ Fun fact **Coding is like cooking in a kitchen where recipe is your srs and kitchen is your ide**
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Blog posts on medium
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/1" alt="Recent Article 1"> 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/2" alt="Recent Article 2"> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
