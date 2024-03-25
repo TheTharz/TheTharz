@@ -47,7 +47,12 @@
 <a href="https://medium.com/@tharinduimalka915" target="blank">
  <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
+<a href="https://www.hackerrank.com/profile/Tharindu3996" target="blank">
+ <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
 </p>
+
+
 
 ## Blog posts on medium
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/0" alt="Recent Article 0"> 
