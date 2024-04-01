@@ -69,5 +69,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheTharz&theme=tokyonight&hide_border=true)<br/>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetharz&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,cmake,css,html" alt="pramithamj" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetharz&bg_color=000000&color=2429c2&line=4c5a9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetharz&bg_color=000000&color=FFDF00&line=4c5a9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
