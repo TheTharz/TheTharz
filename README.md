@@ -67,7 +67,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheTharz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&hide=jupyter%20notebook)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheTharz&theme=tokyonight&hide_border=true)<br/>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetharz&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,cmake,css,html" alt="pramithamj" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetharz&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,cmake,css,html" alt="thetharz" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetharz&bg_color=000000&color=00008B&line=FFDF00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
