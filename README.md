@@ -35,7 +35,7 @@
 
 - ⚡ Fun fact **Coding is like cooking in a kitchen where recipe is your srs and kitchen is your ide**
 
-<a href="https://app.daily.dev/mvtijayawardhana"><img src="https://api.daily.dev/devcards/v2/OjsTTiQ0RVJcQDi8eNbLV.png?r=uah&type=default" width="356" alt="M.V.T.I. Jayawardhana's Dev Card"/></a>
+<a href="https://app.daily.dev/mvtijayawardhana"><img src="https://api.daily.dev/devcards/v2/OjsTTiQ0RVJcQDi8eNbLV.png?type=default&r=i8p" width="356" alt="M.V.T.I. Jayawardhana's Dev Card"/></a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
