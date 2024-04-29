@@ -27,7 +27,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@tharinduimalka915](https://medium.com/@tharinduimalka915)
 
-- 💬 Ask me about **MERN and SpringBoot**
+- 💬 Ask me about **DevOps and MERN**
 
 - 📫 How to reach me **tharinduimalkajayawardhana@gmail.com**
 
