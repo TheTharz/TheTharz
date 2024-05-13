@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [LifePill](https://github.com/TheTharz/pharmacy-pos-frontend.git)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and CI/CD pipelines**
 
 - 👨‍💻 All of my projects are available at [https://tharindujayawardhana.me](https://tharindujayawardhana.me)
 
