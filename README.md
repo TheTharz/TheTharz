@@ -1,13 +1,13 @@
 ![Pro Developers Colorful Dark Gray   Orange LinkedIn Banner](https://github.com/TheTharz/TheTharz/assets/119271523/8e99be76-3a18-4dd8-a0cb-f2f36277b586)
 <h1 align="center">Hi 👋, I'm Tharindu Jayawardhana</h1>
 <h3 align="center">A passionate computer engineering undergrad from Sri Lanka</h3>
-
+[![GitHub](https://img.shields.io/github/stars/TheTharz.svg?style=social)](https://github.com/TheTharz)
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://komarev.com/ghpvc/?username=thetharz&label=Profile%20views&color=0e75b6&style=flat" alt="thetharz" />
         <a href="https://user-badge.committers.top/sri_lanka/TheTharz">
             <img src="https://user-badge.committers.top/sri_lanka/TheTharz.svg" />
         </a>
-        [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
+        
 
 </div>
 
