@@ -7,6 +7,8 @@
         <a href="https://user-badge.committers.top/sri_lanka/TheTharz">
             <img src="https://user-badge.committers.top/sri_lanka/TheTharz.svg" />
         </a>
+        [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
+
 </div>
 
 ----
