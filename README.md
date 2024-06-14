@@ -64,10 +64,11 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/2" alt="Recent Article 2"> 
 
 <h3 align="left">Languages and Tools:</h3>
+
 **Cloud Services:**
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![Javascript](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
 ![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
 ![AWS Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![AWS S3](https://img.shields.io/badge/Storage-AWS_S3-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
@@ -79,10 +80,17 @@
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![Jenkins](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=6aa6f8)
 
+**Programming Languages:**
+
+![Typescript](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+![Javascript](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![CPP](https://img.shields.io/badge/CPP-informational?style=flat&logo=cpp&logoColor=white&color=6aa6f8)
+![Bash](https://img.shields.io/badge/Bash-informational?style=flat&logo=bash&logoColor=white&color=6aa6f8)
+
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/thetharz?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheTharz&theme=tokyonight&hide_border=true)<br/>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetharz&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,cmake,css,html" alt="thetharz" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetharz&bg_color=000000&color=00008B&line=FFDF00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
