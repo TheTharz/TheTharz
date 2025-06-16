@@ -4,11 +4,6 @@
 <h3 align="center">A nerd with a keyboard, solving problems you never knew existed.</h3>
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://komarev.com/ghpvc/?username=thetharz&label=Profile%20views&color=0e75b6&style=flat" alt="thetharz" />
-        <a href="https://user-badge.committers.top/sri_lanka/TheTharz">
-            <img src="https://user-badge.committers.top/sri_lanka/TheTharz.svg" />
-        </a>
-        
-
 </div>
 
 ----
