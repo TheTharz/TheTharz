@@ -58,7 +58,7 @@
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tharinduimalka915/2" alt="Recent Article 2"> 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tool:</h3>
 
 **Cloud Services:**
 
