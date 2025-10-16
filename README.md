@@ -49,6 +49,7 @@
 </a>
 </p>
 
+[![An image of @thetharz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thetharz)](https://holopin.io/@thetharz)
 
 
 ## Blog posts on medium
