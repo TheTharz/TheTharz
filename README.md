@@ -1,4 +1,4 @@
-![Pro Developers Colorful Dark Gray   Orange LinkedIn Banner](https://github.com/TheTharz/TheTharz/assets/119271523/8e99be76-3a18-4dd8-a0cb-f2f36277b586)
+![Pro Developers Colorful Dark Gray   Orange LinkedIn Banner](https://github.com/user-attachments/assets/895cbbad-3474-473d-9663-d50f1d3dc4c1)
 
 <h1 align="center">Hi 👋, I'm Tharindu Jayawardhana</h1>
 <h3 align="center">A nerd with a keyboard, solving problems you never knew existed.</h3>
@@ -16,19 +16,15 @@
 
 ----
 
-- 🔭 I’m currently working on [LifePill](https://github.com/TheTharz/pharmacy-pos-frontend.git)
-
-- 🌱 I’m currently learning **DevOps and CI/CD pipelines**
-
-- 👨‍💻 All of my projects are available at [https://thetharz.github.io/portfolio/](https://thetharz.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://tharindu.devnerd.online/](https://tharindu.devnerd.online/)
 
 - 📝 I regularly write articles on [https://medium.com/@tharinduimalka915](https://medium.com/@tharinduimalka915)
 
-- 💬 Ask me about **DevOps and MERN**
+- 💬 Ask me about **Software Engineering And Cloud**
 
 - 📫 How to reach me **tharinduimalkajayawardhana@gmail.com**
 
-- 📄 Know about my experiences [https://tharindujayawardhana.me](https://tharindujayawardhana.me)
+- 📄 Know about my experiences [https://tharindu.devnerd.online/](https://tharindu.devnerd.online/)
 
 - ⚡ Fun fact **Coding is like cooking in a kitchen where recipe is your srs and kitchen is your ide**
 
